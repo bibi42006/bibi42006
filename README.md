@@ -3,7 +3,7 @@
 Meu nome é Beatriz
 
 - estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript e html
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo! 📬💌
